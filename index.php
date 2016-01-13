@@ -20,6 +20,8 @@
                         <li><a href="http://sandiego-art.org/?&screen=4&Category=international" target="_blank">53rd Annual International Exhibition</a><br />San Diego, CA</li>
                         <li><a href="https://www.artwalksandiego.org/" target="_blank">Art Walk</a><br />San Diego, CA</li>
                         <li><a href="http://www.comic-con.org/" target="_blank">San Diego Comic Con</a><br />San Diego, CA</li>
+                        <li><a href="http://www.thecottoncandymachine.com/events/show/brooklyn-biennial-sub/" target="_blank">Brooklyn Biennial</a><br />Cotton Candy Machine, Brooklyn, NY</li>
+                        <li><a href="https://www.facebook.com/La-Bodega-Gallery-1112052638809191/" target="_blank">La Bodega Gallery</a><br />San Diego, CA</li>
                     </ul>
                 </div>
                 <div class="small-4 columns">
