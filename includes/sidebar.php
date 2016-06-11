@@ -1,5 +1,5 @@
 <aside>
-    <div class="small-3 columns">
+    <div class="medium-3 columns">
         <a href="index.php">
             <img src="img/pulpcore_logo.jpg" alt="Pulpcore - The Art of David Russell Talbott" class="border" />
         </a>

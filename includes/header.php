@@ -20,7 +20,7 @@
     <div class="row">
         <img src="img/skull.png" alt="Skull Logo - David Russell Talbott" class="skull-img" />
         <?php include("includes/sidebar.php") ?>
-        <div class="small-12 medium-9 columns">
+        <div class="medium-9 columns">
             <div class="row main-header-rows">
                 <div class="tagline border small-12 columns">
                     <h1>Pulpcore:</h1>
