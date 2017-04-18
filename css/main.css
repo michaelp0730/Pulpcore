@@ -213,6 +213,7 @@ ul.arrow-list {
 ul.arrow-list li {
     position: relative;
     margin-left: 10px;
+    margin-top: 12px;
 }
 
 ul.arrow-list li:before {

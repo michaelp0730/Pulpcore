@@ -10,9 +10,16 @@
 			<img src="img/c_o.jpg" alt="Pulpcore Series" width="605" height="300" />
 			<img src="img/r_e.jpg" alt="Pulpcore Series" width="605" height="300" />
 		</div>
-		<div class="tiny-text">Hover mouse over images to pause animation</div>
 		<h2>Gallery Appearances</h2>
 		<div class="row gallery-appearances">
+			<div class="medium-4 columns">
+				<h5>2017</h5>
+				<ul class="arrow-list">
+					<li><a href="http://www.laluzdejesus.com/" target="_blank">La Luz de Jesus</a><br />Los Angeles, CA</li>
+					<li><a href="https://www.facebook.com/blitzkriegurbansupply/" target="_blank">Blitzkrieg Gallery</a><br />Torrance, CA</li>
+					<li><a href="https://www.labodegagallery.com/" target="_blank">La Bodega Gallery</a><br />San Diego, CA</li>
+				</ul>
+			</div>
 			<div class="medium-4 columns">
 				<h5>2016</h5>
 				<ul class="arrow-list">
@@ -32,6 +39,8 @@
 					<li><a href="https://www.facebook.com/La-Bodega-Gallery-1112052638809191/" target="_blank">La Bodega Gallery</a><br />San Diego, CA</li>
 				</ul>
 			</div>
+		</div>
+		<div class="row top-30 gallery-appearances">
 			<div class="medium-4 columns">
 				<h5>2014</h5>
 				<ul class="arrow-list">
@@ -39,8 +48,6 @@
 					<li><a href="http://artofpride.weebly.com/" target="_blank">Art of Pride Festival </a><br />San Diego, CA</li>
 				</ul>
 			</div>
-		</div>
-		<div class="row gallery-appearances">
 			<div class="medium-4 columns">
 				<h5>2013</h5>
 				<ul class="arrow-list">
@@ -56,6 +63,8 @@
 					<li><a href="http://thetractorroom.com/" target="_blank">The Tractor Room</a><br />San Diego, CA</li>
 				</ul>
 			</div>
+		</div>
+		<div class="row top-30 gallery-appearances">
 			<div class="medium-4 columns">
 				<h5>2011</h5>
 				<ul class="arrow-list">
@@ -64,8 +73,6 @@
 					<li><a href="http://distinctionart.com/" target="_blank">Distinction Gallery</a><br />Escondido, CA</li>
 				</ul>
 			</div>
-		</div>
-		<div class="row gallery-appearances">
 			<div class="medium-4 columns">
 				<h5>2010</h5>
 				<ul class="arrow-list">
@@ -85,6 +92,8 @@
 					<li><a href="http://grandcentralartcenter.com/" target="_blank">Grand Central Art Center</a><br />California State University, Fullerton</li>
 				</ul>
 			</div>
+		</div>
+		<div class="row top-30 gallery-appearances">
 			<div class="medium-4 columns">
 				<h5>2008</h5>
 				<ul class="arrow-list">
@@ -97,8 +106,6 @@
 					<li><a href="http://strychnin.com/" target="_blank">Strychnin Gallery</a><br />Berlin, Germany</li>
 				</ul>
 			</div>
-		</div>
-		<div class="row gallery-appearances">
 			<div class="medium-4 columns">
 				<h5>2007</h5>
 				<ul class="arrow-list">
@@ -112,7 +119,7 @@
 					<li><a href="http://www.redletter1.com/" target="_blank">Redletter1 Gallery</a><br />Tampa, FL</li>
 				</ul>
 			</div>
-			<div class="medium-4 columns end">
+			<div class="medium-4 columns">
 				<h5>2006</h5>
 				<ul class="arrow-list">
 					<li><a href="http://galleryad.com/" target="_blank">Anno Domini Gallery</a><br />San Jose, CA</li>
