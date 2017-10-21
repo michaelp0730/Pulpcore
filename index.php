@@ -15,6 +15,8 @@
 			<div class="medium-4 columns">
 				<h5>2017</h5>
 				<ul class="arrow-list">
+					<li><a href="http://www.ljathenaeum.org/" target="_blank">Athenaeum 26th Annual Juried Exhibition</a><br />La Jolla, CA</li>
+					<li><a href="http://axisgallery.org/" target="_blank">Axis Gallery 12th Annual Exhibition</a><br />Curated by Mat Gleason<br />Sacramento, CA</li>
 					<li><a href="http://www.laluzdejesus.com/" target="_blank">La Luz de Jesus</a><br />Los Angeles, CA</li>
 					<li><a href="https://www.facebook.com/blitzkriegurbansupply/" target="_blank">Blitzkrieg Gallery</a><br />Torrance, CA</li>
 					<li><a href="https://www.labodegagallery.com/" target="_blank">La Bodega Gallery</a><br />San Diego, CA</li>
