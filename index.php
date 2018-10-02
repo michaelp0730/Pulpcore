@@ -13,6 +13,15 @@
 		<h2>Gallery Appearances</h2>
 		<div class="row gallery-appearances">
 			<div class="medium-4 columns">
+				<h5>2018</h5>
+				<ul class="arrow-list">
+					<li><a href="https://www.darkartemporium.com/" target="_blank">Dark Art Emporium</a><br />Long Beach, CA</li>
+					<li><a href="http://gallery30south.com/" target="_blank">Gallery 30 South</a><br />Pasadena, CA</li>
+					<li><a href="https://www.labodegagallery.com/" target="_blank">La Bodega Gallery</a><br />San Diego, CA</li>
+					<li><a href="https://www.zbgallery.com/" target="_blank">ZB Gallery</a><br />Portland, OR</li>
+				</ul>
+			</div>
+			<div class="medium-4 columns">
 				<h5>2017</h5>
 				<ul class="arrow-list">
 					<li><a href="http://www.ljathenaeum.org/" target="_blank">Athenaeum 26th Annual Juried Exhibition</a><br />La Jolla, CA</li>
@@ -31,6 +40,8 @@
 					<li><a href="http://www.thumbprintgallery.com/" target="_blank">Thumbprint Gallery</a><br />La Jolla, CA</li>
 				</ul>
 			</div>
+		</div>
+		<div class="row top-30 gallery-appearances">
 			<div class="medium-4 columns">
 				<h5>2015</h5>
 				<ul class="arrow-list">
@@ -41,8 +52,6 @@
 					<li><a href="https://www.facebook.com/La-Bodega-Gallery-1112052638809191/" target="_blank">La Bodega Gallery</a><br />San Diego, CA</li>
 				</ul>
 			</div>
-		</div>
-		<div class="row top-30 gallery-appearances">
 			<div class="medium-4 columns">
 				<h5>2014</h5>
 				<ul class="arrow-list">
@@ -57,6 +66,8 @@
 					<li><a href="http://www.sandiego-art.org/gallery/finished_gallery_new.php?&screen=4&Category=international" target="_blank">52nd Annual International Exhibition </a><br />San Diego, CA</li>
 				</ul>
 			</div>
+		</div>
+		<div class="row top-30 gallery-appearances">
 			<div class="medium-4 columns">
 				<h5>2012</h5>
 				<ul class="arrow-list">
@@ -65,8 +76,6 @@
 					<li><a href="http://thetractorroom.com/" target="_blank">The Tractor Room</a><br />San Diego, CA</li>
 				</ul>
 			</div>
-		</div>
-		<div class="row top-30 gallery-appearances">
 			<div class="medium-4 columns">
 				<h5>2011</h5>
 				<ul class="arrow-list">
@@ -84,6 +93,8 @@
 					<li><a href="http://artcenternj.org/" target="_blank">Visual Art Center New Jersey</a><br />Summit, NJ<br />Curated by Susan Kismaric MOMA NYC</li>
 				</ul>
 			</div>
+		</div>
+		<div class="row top-30 gallery-appearances">
 			<div class="medium-4 columns">
 				<h5>2009</h5>
 				<ul class="arrow-list">
@@ -94,8 +105,6 @@
 					<li><a href="http://grandcentralartcenter.com/" target="_blank">Grand Central Art Center</a><br />California State University, Fullerton</li>
 				</ul>
 			</div>
-		</div>
-		<div class="row top-30 gallery-appearances">
 			<div class="medium-4 columns">
 				<h5>2008</h5>
 				<ul class="arrow-list">
@@ -121,6 +130,8 @@
 					<li><a href="http://www.redletter1.com/" target="_blank">Redletter1 Gallery</a><br />Tampa, FL</li>
 				</ul>
 			</div>
+		</div>
+		<div class="row top-30 gallery-appearances">
 			<div class="medium-4 columns">
 				<h5>2006</h5>
 				<ul class="arrow-list">
@@ -132,7 +143,7 @@
 				</ul>
 			</div>
 		</div>
-    </div>
+	</div>
 </div> <!-- Closes the column from includes/header.php -->
 
 <?php include('includes/footer.php') ?>
