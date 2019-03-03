@@ -1,7 +1,7 @@
         </div>
         <div class="row">
             <footer class="main">
-                Copyright &copy; <?php echo ('2006 - ' . date('Y')) ?> David Russell Talbott | All Rights Reserved | Web Design/Development by <a href="http://pellegriniportfolio.com/">Michael Pellegrini</a>
+                Copyright &copy; <?php echo ('2006 - ' . date('Y')) ?> David Russell Talbott | All Rights Reserved
             </footer>
         </div>
 
