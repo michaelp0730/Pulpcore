@@ -40,13 +40,6 @@
                     <small class="error">Please include a message.</small>
                 </div>
                 <div class="row top-30">
-<?php
-require_once('includes/recaptchalib.php');
-$publickey = "6LesYcgSAAAAAI21LCNc6Fr6gfGxXB9XCu_zX0XK"; // you got this from the signup page
-echo recaptcha_get_html($publickey);
-?>
-                </div>
-                <div class="row top-30">
                     <button type="submit" id="contact-submit" class="button">Submit</button>
                 </div>
             </form>
