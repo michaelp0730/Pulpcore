@@ -5,9 +5,9 @@
                 <img src="img/pulpcore_logo.jpg" alt="Pulpcore - The Art of David Russell Talbott" class="border" />
             </a>
             <ul class="arrow-list">
-                <li><a href="http://www.facebook.com/#!/pages/Pulpcore-The-Art-of-David-Russell-Talbott/137071686306520" target="_blank">Like me on Facebook</a></li>
-                <li><a href="http://pulpcore.tumblr.com/" target="_blank">Follow me on Tumblr</a></li>
+                <li><a href="http://www.facebook.com/#!/pages/Pulpcore-The-Art-of-David-Russell-Talbott/137071686306520" target="_blank">Follow me on Facebook</a></li>
             </ul>
+            <p class="text-small">Instagram handle: <em>talbott_david</em></p>
         </div>
         <div class="row top-30 column">
             <h4>Pulpcore For Sale:</h4>
@@ -21,6 +21,9 @@
         <div class="row top-30 column">
             <h4>Articles &amp; Interviews</h4>
             <ul class="arrow-list">
+                <li>
+                    <a href="https://3x3mag.com/">Deadsville awarded an honorable mention in 3X3 Magazine’s 2021 Art Annual</a>
+                </li>
                 <li>
                     <a href="http://www.utsandiego.com/weblogs/ryan-campbell/2012/jul/15/interview-with-artist-david-russell-talbott/" target="_blank">Union Tribune San Diego</a>
                 </li>

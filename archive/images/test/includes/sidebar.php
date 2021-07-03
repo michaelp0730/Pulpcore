@@ -4,8 +4,8 @@
             <img src="img/pulpcore_logo.jpg" alt="Pulpcore - The Art of David Russell Talbott" class="border" />
         </a>
         <ul class="arrow-list">
-            <li><a href="http://www.facebook.com/#!/pages/Pulpcore-The-Art-of-David-Russell-Talbott/137071686306520" target="_blank">Like me on Facebook</a></li>
-            <li><a href="http://pulpcore.tumblr.com/" target="_blank">Follow me on Tumblr</a></li>
+            <li><a href="http://www.facebook.com/#!/pages/Pulpcore-The-Art-of-David-Russell-Talbott/137071686306520" target="_blank">Facebook</a></li>
+            <li>Instagram: talbott_david</li>
         </ul>
         <h4 class="red">For Sale:</h4>
         <ul class="arrow-list">

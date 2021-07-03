@@ -200,7 +200,10 @@ aside p {
     margin-top: 0;
 }
 
-.gallery-appearances h5 {
+.gallery-appearances h3 {
+    color: white;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    font-size: 1.33em;
     margin-top: 20px;
 }
 
@@ -228,6 +231,10 @@ ul.arrow-list li:before {
     position: absolute;
     top: 6px;
     left: -10px;
+}
+
+.text-small {
+    font-size: 13px;
 }
 
 .skull-img {
