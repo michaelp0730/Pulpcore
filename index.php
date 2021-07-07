@@ -4,11 +4,11 @@
 ?>
     <div class="row column">
 		<div id="slider" class="small-12 columns">
-			<img src="img/pulpcore_series.jpg" alt="Pulpcore Series" width="605" height="300" style="display:block;" />
-			<img src="img/p_u.jpg" alt="Pulpcore Series" width="605" height="300" />
-			<img src="img/l_p.jpg" alt="Pulpcore Series" width="605" height="300" />
-			<img src="img/c_o.jpg" alt="Pulpcore Series" width="605" height="300" />
-			<img src="img/r_e.jpg" alt="Pulpcore Series" width="605" height="300" />
+			<img src="img/pulpcore_series.jpg" alt="Pulpcore Series slider image 1" width="605" height="300" style="display:block;" />
+			<img src="img/p_u.jpg" alt="Pulpcore Series slider image 2" width="605" height="300" />
+			<img src="img/l_p.jpg" alt="Pulpcore Series slider image 3" width="605" height="300" />
+			<img src="img/c_o.jpg" alt="Pulpcore Series slider image 4" width="605" height="300" />
+			<img src="img/r_e.jpg" alt="Pulpcore Series slider image 5" width="605" height="300" />
 		</div>
 		<h2>Gallery Appearances</h2>
 		<div class="row gallery-appearances">

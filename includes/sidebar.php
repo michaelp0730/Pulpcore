@@ -11,11 +11,11 @@
         </div>
         <div class="row top-30 column">
             <h4>Pulpcore For Sale:</h4>
-            <a href="http://pulpcore.bigcartel.com/" target="_blank">
+            <a href="https://pulpcore.bigcartel.com/" target="_blank">
                 <img src="img/james-dean-thumb.jpg" alt="Pulpcore Cover" class="border" />
             </a>
             <ul class="arrow-list">
-                <li><a href="http://pulpcore.bigcartel.com/" target="_blank">Pulpcore.BigCartel.com</a></li>
+                <li><a href="https://pulpcore.bigcartel.com/" target="_blank">Pulpcore.BigCartel.com</a></li>
             </ul>
         </div>
         <div class="row top-30 column">
